@@ -30,8 +30,7 @@ Project demo video link -
 
 ### Home -
 
-![Screenshot (38)](https://user-images.githubusercontent.com/117890110/209574735-6ff4b64d-1fea-4720-bdd5-6cb40e03ad52.png)
-
+![Screenshot (38)](https://user-images.githubusercontent.com/117890110/209575036-763a99be-5331-4f8f-97c9-725960facc96.png)
 
 
 ### About -
